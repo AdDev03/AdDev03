@@ -25,8 +25,12 @@ Estou avançando para o full stack e estou estudando mais algumas tecnologias ta
 
 <br>
 
-<a href= ""> <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href= ""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.instagram.com/ademilson.ffs?igsh=OWk0b3lsajc0MHpi">
+    <img width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 90px; height: auto; border-radius: 4px;  border: 1px solid #ccc;"/>
+</a>
+<a href="https://www.linkedin.com/in/ademilson-freitas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 80px;  margin-right: 20px; height: auto; border-radius: 4px;  border: 1px solid #ccc;"/>
+</a>
 
 
 
